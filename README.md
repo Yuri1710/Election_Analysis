@@ -6,7 +6,17 @@
 
 
 
-With the explanation shared in these module, Visual Code was a very helpful tool for us, since it's a source code editor that makes our day to day more easier to work with. 
+With the explanation shared in these module, Visual Code was a very helpful tool for us, since it's a source code editor that makes our day to day more easier to work with. We achieve in these module:
+
+- How to navigate to folders on our computer using the command line.
+- Read and extract data from CSV files.
+- Determine the difference between Python data types, like integers, floating-point decimal numbers, and strings.
+- Perform mathematical operations using data types.
+- Declare variables using different data types.
+- Create and use data structures like lists, tuples, and dictionaries.
+- Create and use decision and repetition statements.
+- Create and use Boolean and logical operators.
+- Write data to an output file and print the file.
 
 We managed to obtain :
 
@@ -72,6 +82,5 @@ As we can see our candidate Diana DeGette was the winner in these compaigne bein
 - **Winning Vote Count: 272,892**
 - **Winning Percentage: 73.8%**
 
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-One of the best things of using these script is that we're able to edit as many times as needed, such as it will speed up our day to day, using these script in Visual Studio Code will also help us to personalize for future compaignes or projects.
+## Election-Audit Summary: 
+In this election, the winner had a supermajority, but the criteria was for a popular vote, greater than or equal to 73.8%. This script could be easily modified to run a check for a supermajority, greater than or equal to 66.7% of the votes as the election criteria. A second way to change the code, with the county data, weights could be assigned to the counties to represent the weights of the electoral college votes. With these 2 changes to the script, maybe the election commission would consider a business proposal to make these two adjustments. One of the best things of using these script is that we're able to edit and altered as many times as needed, until we get the desired results also as personalize for future compaignes or projects.
