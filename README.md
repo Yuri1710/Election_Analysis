@@ -82,5 +82,8 @@ As we can see our candidate Diana DeGette was the winner in these compaigne bein
 - **Winning Vote Count: 272,892**
 - **Winning Percentage: 73.8%**
 
+![Capture](https://user-images.githubusercontent.com/114257085/214462835-626ee1d0-94a1-4c58-ac81-79553b1bd7b3.PNG)
+
+
 ## Election-Audit Summary: 
 In this election, the winner had a supermajority, but the criteria was for a popular vote, greater than or equal to 73.8%. This script could be easily modified to run a check for a supermajority, greater than or equal to 66.7% of the votes as the election criteria. A second way to change the code, with the county data, weights could be assigned to the counties to represent the weights of the electoral college votes.Another option is for example if this were a federal election, we could use the same script and change the county to states. One of the best things of using these script is that we're able to edit and altered as many times as needed, until we get the desired results also as personalize for future compaignes or projects. Maybe the election commission would consider a business proposal to make these adjustments and apply it in the future.
